@@ -1,4 +1,4 @@
-Flask==2.1.1
+Flask==2.2.2  # Actualiza Flask
 twilio==7.16.0
 gunicorn==20.1.0
-werkzeug==2.1.3  # Versión compatible con Flask 2.1.1
+werkzeug==2.2.3  # Usar la versión más reciente de Werkzeug
